@@ -2,6 +2,20 @@
 
 # Práctica: Creación de Paquetes NPM
 
+### ull-shape
+
+    #### Install
+    
+    ```javascript
+    npm install @ull-alejandro-raul-35l2/ull-shape
+    ```
+
+    #### Use
+    
+    ```javascript
+    require('@ull-alejandro-raul-35l2/ull-shape');
+    ```
+
 ### Descripción de la práctica 
 
 [Enunciado](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicamodulestrategypattern.html)
