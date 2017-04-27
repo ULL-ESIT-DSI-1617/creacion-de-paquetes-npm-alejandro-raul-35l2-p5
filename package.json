@@ -1,0 +1,29 @@
+{
+  "name": "@ull-alejandro-raul-35l2/ull-shape",
+  "version": "1.0.0",
+  "description": "ull shape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "documentation build ./lib/shape.js -f html -o docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-raul-35l2-p5.git"
+  },
+  "keywords": [
+    "js",
+    "shape"
+  ],
+  "author": "alejandro-raul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-raul-35l2-p5/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-raul-35l2-p5#readme",
+  "dependencies": {
+    "gulp-shell": "^0.6.3",
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
+  }
+}
