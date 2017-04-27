@@ -4,17 +4,17 @@
 
 ### ull-shape
 
-    #### Install
-    
-    ```javascript
-    npm install @ull-alejandro-raul-35l2/ull-shape
-    ```
+#### Install
 
-    #### Use
-    
-    ```javascript
-    require('@ull-alejandro-raul-35l2/ull-shape');
-    ```
+```javascript
+npm install @ull-alejandro-raul-35l2/ull-shape
+```
+
+#### Use
+
+```javascript
+require('@ull-alejandro-raul-35l2/ull-shape');
+```
 
 ### Descripción de la práctica 
 
