@@ -18,6 +18,14 @@
     "js",
     "shape"
   ],
+  "contributors": [
+    {
+      "name": "Alejandro Díaz Cueca"
+    },
+    {
+      "name": "Raúl Martín Morales"
+    }
+  ],
   "author": "alejandro-raul",
   "license": "MIT",
   "bugs": {
